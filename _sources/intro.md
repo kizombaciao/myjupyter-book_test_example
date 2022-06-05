@@ -1,11 +1,9 @@
-# Welcome to your Jupyter Book2
+# Repsol
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+Repsol S.A. is a Spanish energy and petrochemical company based in Madrid. It is engaged in worldwide upstream and downstream activities. In the 2021 Forbes Global 2000, Repsol was ranked as the 683rd-largest public company in the world. It has more than 24,000 employees worldwide.
+It is vertically integrated and operates in all areas of the oil and gas industry, including exploration and production, refining, distribution and marketing, petrochemicals, power generation and trading. The business strategy also includes a renewable energy division. [Repsol](https://en.wikipedia.org/wiki/Repsol) for more information.
 
-Check out the content pages bundled with this sample book to see more.
+Check out the contents below to see more.
 
 ```{tableofcontents}
 ```
