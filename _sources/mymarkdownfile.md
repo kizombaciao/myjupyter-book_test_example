@@ -1,4 +1,7 @@
-# Repsol
+# Repsol, REP SM Equity
+
+    Baa2 / Stable
+    BBB / Positive
 
 (section-label)=
 
