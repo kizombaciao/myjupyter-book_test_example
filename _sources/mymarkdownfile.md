@@ -14,3 +14,11 @@ Here is a [reference to the intro](intro.md). Here is a reference to [](section-
 ## WHAT CAN GO WRONG
 
 ## BUSINESS PROFILE
+
+## FINANCIAL PROFILE
+
+## PEER COMPARISION
+
+## RATING AGENCIES
+
+## ESG
