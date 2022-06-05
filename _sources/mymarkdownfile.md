@@ -5,6 +5,6 @@ It is vertically integrated and operates in all areas of the oil and gas industr
 
 (section-label)=
 
-## Here's my first Repsol
+## Company
 
 Here is a [reference to the intro](intro.md). Here is a reference to [](section-label).
