@@ -12,6 +12,10 @@ It is vertically integrated and operates in all areas of the oil and gas industr
 
 ## INVESTMENT THESIS
 
+* 1
+* 2
+* 3
+
 ## WHAT CAN GO WRONG
 
 ## BUSINESS PROFILE
